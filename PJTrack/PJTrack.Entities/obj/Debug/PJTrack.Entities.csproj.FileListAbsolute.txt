@@ -1,0 +1,4 @@
+D:\BROWSING\PJTrack\PJTrack.Entities\bin\Debug\PJTrack.Entities.dll
+D:\BROWSING\PJTrack\PJTrack.Entities\bin\Debug\PJTrack.Entities.pdb
+D:\BROWSING\PJTrack\PJTrack.Entities\obj\Debug\PJTrack.Entities.dll
+D:\BROWSING\PJTrack\PJTrack.Entities\obj\Debug\PJTrack.Entities.pdb

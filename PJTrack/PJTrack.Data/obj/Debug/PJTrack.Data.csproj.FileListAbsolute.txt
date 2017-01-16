@@ -1,0 +1,14 @@
+D:\BROWSING\PJTrack\PJTrack.Data\bin\Debug\PJTrack.Data.dll.config
+D:\BROWSING\PJTrack\PJTrack.Data\bin\Debug\PJTrack.Data.dll
+D:\BROWSING\PJTrack\PJTrack.Data\bin\Debug\PJTrack.Data.pdb
+D:\BROWSING\PJTrack\PJTrack.Data\obj\Debug\PJTrack.Data.dll
+D:\BROWSING\PJTrack\PJTrack.Data\obj\Debug\PJTrack.Data.pdb
+D:\BROWSING\PJTrack\PJTrack.Data\bin\Debug\EntityFramework.dll
+D:\BROWSING\PJTrack\PJTrack.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\BROWSING\PJTrack\PJTrack.Data\bin\Debug\PJTrack.Entities.dll
+D:\BROWSING\PJTrack\PJTrack.Data\bin\Debug\PJTrack.Entities.pdb
+D:\BROWSING\PJTrack\PJTrack.Data\bin\Debug\EntityFramework.xml
+D:\BROWSING\PJTrack\PJTrack.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\BROWSING\PJTrack\PJTrack.Data\obj\Debug\PJTrack.Data.csprojResolveAssemblyReference.cache
+D:\BROWSING\PJTrack\PJTrack.Data\obj\Debug\PJTrack.Data.Migrations.initialitation.resources
+D:\BROWSING\PJTrack\PJTrack.Data\obj\Debug\PJTrack.Data.csproj.GenerateResource.Cache
